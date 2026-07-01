@@ -1,4 +1,4 @@
-# # Bank Loan Portfolio Performance & Risk Analysis Dashboard
+# # Bank Loan Portfolio Performance & Risk Analysis 
 
 ## Project Overview
 
